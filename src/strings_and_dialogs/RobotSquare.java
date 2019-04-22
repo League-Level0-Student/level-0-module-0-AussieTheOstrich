@@ -18,7 +18,7 @@ public class RobotSquare {
 
 girrafe.penDown();
         // 6. Make the robot move as fast as possible
-girrafe.setSpeed(100);
+girrafe.setSpeed(50);
 
         // 5. Do everything below here 4 times
 for (int i = 0; i < 4; i++) {

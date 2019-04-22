@@ -6,6 +6,6 @@ public class KnockKnock {
 public static void main(String[] args) {
 	JOptionPane.showMessageDialog(null, "KnockKnock" );
 	JOptionPane.showMessageDialog(null, "Whos there" );
-	JOptionPane.showMessageDialog(null, "GO AWAY" );
+	JOptionPane.showMessageDialog(null, "your great great great great great great grandpa" );
 }
 }
